@@ -27,11 +27,11 @@
 ### Python
 
 
-1. [Foodgram](https://github.com/clifforc/foodgram)
+1. [Foodgram](https://github.com/Kirill374mansurov/foodgram)
    - Foodgram - это веб-приложение, где пользователи могут публиковать рецепты, подписываться на любимых авторов, добавлять рецепты в избранное и формировать список покупок для выбранных рецептов.
-2. [API YaMDb](https://github.com/clifforc/api_yamdb)
+2. [API YaMDb](https://github.com/Kirill374mansurov/api_yamdb)
    - YaMDb - это проект API для сервиса, который собирает отзывы пользователей на различные произведения.
-3. [API для Yatube](https://github.com/clifforc/api_final_yatube)
-   - В данном проекте реализован функционал API социальной сети, где пользователи могут создавать публикации, комментировать их, а так же подписываться на других пользователей и сообщества.
-4. [Blogicum](https://github.com/clifforc/Blogicum)
-   - Этот проект представляет собой приложение блога на основе Django.
+3. [Kittygram](https://github.com/Kirill374mansurov/kittygram)
+   - В данном проекте реализован функционал API приложения для сохранения записей разных пользователей, а также сохранения фотография на сайте.
+4. [Taski](https://github.com/Kirill374mansurov/taski-docker)
+   - Этот проект для создания заметок создан с импользованиям Docker и также готовый для запуска на удаленный сервер.
